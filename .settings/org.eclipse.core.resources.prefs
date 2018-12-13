@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/controller/ClawlerWebTest.java=UTF-8
+encoding//src/controller/ProcessLoginController.java=UTF-8
+encoding//src/model/bo/LoadMoreItemsBO.java=UTF-8
+encoding//src/model/bo/ProcessLoginBO.java=UTF-8
+encoding//src/model/bo/ProcessScrapLinkBO.java=UTF-8
+encoding//src/util/Config.java=UTF-8
+encoding//src/util/connection/ConnectDB.java=UTF-8
+encoding/<project>=UTF-8
